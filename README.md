@@ -1,2 +1,2 @@
 # simple_text_classification
-Spam clasification based on kaggle dataset
+Spam classification based on kaggle dataset
